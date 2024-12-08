@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://hamzakhanzada.github.io/My-Portfolio/](https://hamzakhanzada.github.io/My-Portfolio/)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Js**
 
 - 📫 How to reach me **khanzadahamza76@gmail.com**
 

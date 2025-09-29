@@ -17,7 +17,7 @@ I'm a **Frontend Developer** and a **Computer Science student**, passionate abou
 
 ## 📫 Connect With Me
 - 📧 **Email**: [khanzadahamza76@gmail.com](mailto:khanzadahamza76@gmail.com)  
-- 🌐 **Portfolio**: [hamzakhanzada.github.io/My-Portfolio](https://hamzakhanzada.github.io/My-Portfolio/)  
+- 🌐 **Portfolio**: [hamzakhanzada.github.io/My-Portfolio](https://hamza-portfolio-indol.vercel.app/)  
 - 💼 **LinkedIn**: [Hamza Khalid](https://linkedin.com/in/Hamza%20Khalid)
 
 ---

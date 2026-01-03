@@ -1,59 +1,109 @@
-# 💫 About Me
+👋 Hi, I’m Hamza Khalid
 
-Hi there, I'm **Hamza Khalid** 👋  
-I'm a **Frontend Developer** and a **Computer Science student**, passionate about creating **modern, responsive, and user-friendly** web applications. I love transforming ideas into visually appealing digital experiences through clean and efficient code.
+Frontend Developer | Computer Science Student
+I build clean, responsive, and scalable web interfaces with a strong focus on usability, performance, and maintainable code. I enjoy turning real-world problems into practical digital solutions using modern frontend technologies.
 
-## 🧠 What I’m Working On
-- 🔭 Enhancing my frontend development skills by building real-world projects.  
-- 🌱 Expanding my knowledge of **JavaScript**, **HTML**, **CSS**, and modern frameworks like **React**.  
-- 🚀 Continuously improving my problem-solving and UI/UX skills.
+🧠 What I Do
 
-## 🛠️ Skills
-- **Frontend Development**: HTML, CSS, JavaScript  
-- **Frameworks & Libraries**: React, Bootstrap, Tailwind CSS, MUI  
-- **CMS**: WordPress, Payload CMS  
-- **Tools**: Git, GitHub, VS Code  
-- **Databases**: MySQL
+Design and develop responsive frontend applications
 
-## 📫 Connect With Me
-- 📧 **Email**: [khanzadahamza76@gmail.com](mailto:khanzadahamza76@gmail.com)  
-- 🌐 **Portfolio**: [hamzakhanzada.github.io/My-Portfolio](https://hamza-portfolio-indol.vercel.app/)  
-- 💼 **LinkedIn**: [Hamza Khalid](https://linkedin.com/in/Hamza%20Khalid)
+Convert UI/UX designs into pixel-perfect interfaces
 
----
+Build component-based systems using modern frameworks
 
-# 💻 Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![Payload CMS](https://img.shields.io/badge/Payload%20CMS-000000?style=for-the-badge&logo=payloadcms&logoColor=white)
+Work with CMS platforms for dynamic, content-driven websites
 
----
+Continuously improve code quality and development workflows
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Hamzakhanzada&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=Hamzakhanzada&theme=algolia&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamzakhanzada&theme=algolia&hide_border=false&layout=compact)
+🚀 Currently Focused On
 
----
+Strengthening advanced JavaScript & React patterns
 
-## 🏆 Achievements
-![](https://github-profile-trophy.vercel.app/?username=Hamzakhanzada&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+Building real-world projects with production-level structure
 
-### ✍️ Developer Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Improving UI/UX decision-making and accessibility
 
-### 🔝 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=Hamzakhanzada&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Learning best practices for scalable frontend architecture
 
----
+🛠️ Technical Skills
+Frontend
 
-[![](https://visitcount.itsvg.in/api?id=Hamzakhanzada&icon=0&color=0)](https://visitcount.itsvg.in)
+HTML5, CSS3, JavaScript (ES6+)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+React.js
+
+Bootstrap, Tailwind CSS, MUI
+
+CMS & Backend Basics
+
+WordPress (Custom Themes & Dynamic Pages)
+
+Payload CMS
+
+MySQL (Basic database operations)
+
+Tools & Workflow
+
+Git & GitHub
+
+VS Code
+
+Responsive & Mobile-First Design
+
+Clean Code & Component Reusability
+
+📌 Featured Strengths
+
+Strong understanding of responsive layouts
+
+Ability to work from Figma / UI designs
+
+Focus on functionality first, then refinement
+
+Clear, readable, and beginner-friendly code
+
+Continuous learner with real project experience
+
+🌐 Connect With Me
+
+📧 Email: khanzadahamza76@gmail.com
+
+💼 LinkedIn: linkedin.com/in/Hamza-Khalid
+
+🌍 Portfolio: hamza-portfolio-indol.vercel.app
+
+💻 Tech Stack
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+📊 GitHub Analytics
+
+
+
+
+
+
+🏆 GitHub Achievements
+
+✨ Developer Mindset
+
+“Good UI attracts users. Good code keeps them.”
+
+👀 Profile Views

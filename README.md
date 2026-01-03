@@ -1,109 +1,41 @@
-👋 Hi, I’m Hamza Khalid
+# 💫 About Me
 
-Frontend Developer | Computer Science Student
-I build clean, responsive, and scalable web interfaces with a strong focus on usability, performance, and maintainable code. I enjoy turning real-world problems into practical digital solutions using modern frontend technologies.
+![Profile Views](https://komarev.com/ghpvc/?username=Hamzakhanzada\&label=Profile%20Views\&color=0e75b6\&style=flat)
 
-🧠 What I Do
+Hi there, I'm **Hamza Khalid** 👋
+I'm a **Front-End Developer** and a **Computer Science student**, passionate about building **modern, responsive, and user‑friendly** web applications. I enjoy turning ideas into clean, functional digital experiences.
 
-Design and develop responsive frontend applications
+## 🚀 Front-End Developer | React, Next.js, Payload CMS, HTML/CSS
 
-Convert UI/UX designs into pixel-perfect interfaces
+## 🧠 What I’m Working On
 
-Build component-based systems using modern frameworks
+* 🔭 Improving my frontend skills through real‑world projects
+* ⚡ Building fast and scalable UIs with **React** and **Next.js**
+* 🧩 Exploring headless solutions using **Payload CMS**
 
-Work with CMS platforms for dynamic, content-driven websites
+## 🛠️ Tech Stack
 
-Continuously improve code quality and development workflows
+* **Frontend:** HTML, CSS, Tailwind CSS, JavaScript
+* **Frameworks:** React, Next.js
+* **CMS:** Payload CMS, WordPress (Custom Themes)
+* **Tools:** Git, GitHub, VS Code, Figma
 
-🚀 Currently Focused On
+## 📈 Goals
 
-Strengthening advanced JavaScript & React patterns
+* Write clean, maintainable code
+* Build responsive and accessible interfaces
+* Grow as a professional Front‑End Developer
 
-Building real-world projects with production-level structure
+## 🤝 Let’s Connect
 
-Improving UI/UX decision-making and accessibility
+* 📧 Email: [khanzadahamza76@gmail.com](mailto:khanzadahamza76@gmail.com)
+* 💼 GitHub: [https://github.com/Hamzakhanzada](https://github.com/Hamzakhanzada)
 
-Learning best practices for scalable frontend architecture
+---
 
-🛠️ Technical Skills
-Frontend
+### 📚 References
 
-HTML5, CSS3, JavaScript (ES6+)
-
-React.js
-
-Bootstrap, Tailwind CSS, MUI
-
-CMS & Backend Basics
-
-WordPress (Custom Themes & Dynamic Pages)
-
-Payload CMS
-
-MySQL (Basic database operations)
-
-Tools & Workflow
-
-Git & GitHub
-
-VS Code
-
-Responsive & Mobile-First Design
-
-Clean Code & Component Reusability
-
-📌 Featured Strengths
-
-Strong understanding of responsive layouts
-
-Ability to work from Figma / UI designs
-
-Focus on functionality first, then refinement
-
-Clear, readable, and beginner-friendly code
-
-Continuous learner with real project experience
-
-🌐 Connect With Me
-
-📧 Email: khanzadahamza76@gmail.com
-
-💼 LinkedIn: linkedin.com/in/Hamza-Khalid
-
-🌍 Portfolio: hamza-portfolio-indol.vercel.app
-
-💻 Tech Stack
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-📊 GitHub Analytics
-
-
-
-
-
-
-🏆 GitHub Achievements
-
-✨ Developer Mindset
-
-“Good UI attracts users. Good code keeps them.”
-
-👀 Profile Views
+* GitHub Markdown Guide: [https://docs.github.com/en/get-started/writing-on-github](https://docs.github.com/en/get-started/writing-on-github)
+* React Documentation: [https://react.dev](https://react.dev)
+* Next.js Documentation: [https://nextjs.org/docs](https://nextjs.org/docs)
+* Payload CMS Docs: [https://payloadcms.com/docs](https://payloadcms.com/docs)
